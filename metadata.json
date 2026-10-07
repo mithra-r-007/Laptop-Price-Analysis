@@ -1,0 +1,6 @@
+{
+  "name": "Laptop Price Analyzer & Prediction System",
+  "description": "An academic and professional data science platform analyzing laptop prices using Python, NumPy, Pandas, and Machine Learning regression models with interactive predictions and budget recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

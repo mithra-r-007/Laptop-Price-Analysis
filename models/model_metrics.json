@@ -1,0 +1,63 @@
+{
+  "best_model": "Gradient Boosting Regressor",
+  "best_metrics": {
+    "Model": "Gradient Boosting Regressor",
+    "Type": "Tree Ensemble (Boosting)",
+    "Description": "Sequential boosting model minimizing residual errors iteratively.",
+    "MAE": 13324.03,
+    "MSE": 415353949.87,
+    "RMSE": 20380.23,
+    "R2_Score": 0.9055,
+    "Train_R2": 0.9986
+  },
+  "all_models_eval": [
+    {
+      "Model": "Linear Regression",
+      "Type": "Parametric Linear Model",
+      "Description": "Baseline linear statistical relationship between laptop features and price.",
+      "MAE": 16522.13,
+      "MSE": 497179099.22,
+      "RMSE": 22297.51,
+      "R2_Score": 0.8869,
+      "Train_R2": 0.9581
+    },
+    {
+      "Model": "Random Forest Regressor",
+      "Type": "Tree Ensemble (Bagging)",
+      "Description": "Ensemble of decision trees capturing non-linear interactions across components.",
+      "MAE": 14602.97,
+      "MSE": 493080637.88,
+      "RMSE": 22205.42,
+      "R2_Score": 0.8878,
+      "Train_R2": 0.9779
+    },
+    {
+      "Model": "Gradient Boosting Regressor",
+      "Type": "Tree Ensemble (Boosting)",
+      "Description": "Sequential boosting model minimizing residual errors iteratively.",
+      "MAE": 13324.03,
+      "MSE": 415353949.87,
+      "RMSE": 20380.23,
+      "R2_Score": 0.9055,
+      "Train_R2": 0.9986
+    }
+  ],
+  "train_samples": 112,
+  "test_samples": 28,
+  "features_used": {
+    "numerical": [
+      "RAM",
+      "Storage",
+      "Screen_Size",
+      "Weight_kg",
+      "Resolution_Pixels"
+    ],
+    "categorical": [
+      "Brand",
+      "Processor_Tier",
+      "GPU_Tier",
+      "Storage_Type",
+      "Operating_System"
+    ]
+  }
+}

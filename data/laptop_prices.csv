@@ -1,0 +1,141 @@
+Brand,Model,Processor,RAM,Storage,Storage_Type,GPU,Screen_Size,Operating_System,Weight_kg,Resolution,Price
+Dell,Inspiron 3520,Intel Core i3 12th Gen,8GB,512GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.65,1920x1080,36990
+Dell,Inspiron 5430,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.55,1920x1200,64990
+Dell,Inspiron 5630,Intel Core i7 13th Gen,16GB,1TB,SSD,Intel Iris Xe,16.0,Windows 11,1.85,1920x1200,84990
+Dell,G15 5530 Gaming,Intel Core i5 13th Gen,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,2.65,1920x1080,72990
+Dell,G15 5530 Gaming,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,15.6,Windows 11,2.68,1920x1080,109990
+Dell,Alienware m16 R2,Intel Core Ultra 7,32GB,1TB,SSD,NVIDIA RTX 4070,16.0,Windows 11,2.61,2560x1600,189990
+Dell,Alienware m18 R1,Intel Core i9 13th Gen,32GB,2TB,SSD,NVIDIA RTX 4080,18.0,Windows 11,3.25,2560x1600,289990
+Dell,XPS 13 9315,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,13.4,Windows 11,1.17,1920x1200,104990
+Dell,XPS 13 Plus 9320,Intel Core i7 13th Gen,32GB,1TB,SSD,Intel Iris Xe,13.4,Windows 11,1.26,3840x2400,164990
+Dell,XPS 15 9530,Intel Core i9 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4070,15.6,Windows 11,1.86,3456x2160,249990
+Dell,Vostro 3520,Intel Core i3 11th Gen,8GB,256GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.69,1920x1080,31490
+Dell,Vostro 3520,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.66,1920x1080,48990
+HP,15s-fq5007TU,Intel Core i3 12th Gen,8GB,512GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.69,1920x1080,37990
+HP,15s-fr2512TU,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.69,1920x1080,53990
+HP,Pavilion 14,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.41,1920x1080,66990
+HP,Pavilion Plus 14,AMD Ryzen 7 7840U,16GB,1TB,SSD,AMD Radeon 780M,14.0,Windows 11,1.38,2880x1800,79990
+HP,Pavilion Aero 13,AMD Ryzen 5 7535U,16GB,512GB,SSD,AMD Radeon Graphics,13.3,Windows 11,0.97,1920x1200,69990
+HP,Victus 15,AMD Ryzen 5 5600H,8GB,512GB,SSD,AMD Radeon RX 6500M,15.6,Windows 11,2.37,1920x1080,49990
+HP,Victus 15,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,2.29,1920x1080,63990
+HP,Victus 16,AMD Ryzen 7 7840HS,16GB,1TB,SSD,NVIDIA RTX 4060,16.1,Windows 11,2.31,1920x1080,94990
+HP,Omen 16,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,16.1,Windows 11,2.39,2560x1440,119990
+HP,Omen Transcend 14,Intel Core Ultra 7,16GB,1TB,SSD,NVIDIA RTX 4060,14.0,Windows 11,1.63,2880x1800,169990
+HP,Spectre x360 14,Intel Core Ultra 7,32GB,1TB,SSD,Intel Arc Graphics,14.0,Windows 11,1.44,2880x1800,174990
+HP,Envy x360 15,AMD Ryzen 5 7530U,16GB,512GB,SSD,AMD Radeon Graphics,15.6,Windows 11,1.82,1920x1080,78990
+Lenovo,IdeaPad Slim 3,Intel Core i3 12th Gen,8GB,512GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.62,1920x1080,35990
+Lenovo,IdeaPad Slim 3,AMD Ryzen 5 5500U,8GB,512GB,SSD,AMD Radeon Graphics,15.6,Windows 11,1.65,1920x1080,42990
+Lenovo,IdeaPad Slim 5,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.46,1920x1200,63990
+Lenovo,IdeaPad Slim 5,AMD Ryzen 7 7730U,16GB,1TB,SSD,AMD Radeon Graphics,16.0,Windows 11,1.89,1920x1200,68990
+Lenovo,IdeaPad Gaming 3,AMD Ryzen 5 5600H,8GB,512GB,SSD,NVIDIA GTX 1650,15.6,Windows 11,2.25,1920x1080,47990
+Lenovo,IdeaPad Gaming 3,AMD Ryzen 5 6600H,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,2.31,1920x1080,59990
+Lenovo,LOQ 15,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,2.40,1920x1080,65990
+Lenovo,LOQ 15,Intel Core i7 13th Gen,16GB,512GB,SSD,NVIDIA RTX 4060,15.6,Windows 11,2.45,1920x1080,89990
+Lenovo,Legion Slim 5,AMD Ryzen 7 7840HS,16GB,1TB,SSD,NVIDIA RTX 4060,16.0,Windows 11,2.30,2560x1600,114990
+Lenovo,Legion Pro 5,Intel Core i7 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4070,16.0,Windows 11,2.55,2560x1600,164990
+Lenovo,Legion Pro 7,Intel Core i9 13th Gen,32GB,2TB,SSD,NVIDIA RTX 4080,16.0,Windows 11,2.80,2560x1600,274990
+Lenovo,Yoga Slim 7 Pro,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.32,2240x1400,74990
+Lenovo,Yoga 9i Dual Screen,Intel Core i7 13th Gen,16GB,1TB,SSD,Intel Iris Xe,13.3,Windows 11,1.34,2880x1800,179990
+Lenovo,ThinkPad E14 Gen 5,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.53,1920x1200,68490
+Lenovo,ThinkPad X1 Carbon Gen 11,Intel Core i7 13th Gen,32GB,1TB,SSD,Intel Iris Xe,14.0,Windows 11,1.12,2880x1800,214990
+Asus,Vivobook 15,Intel Core i3 12th Gen,8GB,512GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.70,1920x1080,36990
+Asus,Vivobook 15,AMD Ryzen 5 7520U,8GB,512GB,SSD,AMD Radeon 610M,15.6,Windows 11,1.63,1920x1080,41990
+Asus,Vivobook 16X,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA RTX 2050,16.0,Windows 11,1.80,1920x1200,52990
+Asus,Vivobook 16X,Intel Core i7 12th Gen,16GB,512GB,SSD,NVIDIA RTX 3050,16.0,Windows 11,1.80,1920x1200,68990
+Asus,Vivobook S 15 OLED,Intel Core i5 13th Gen,16GB,1TB,SSD,Intel Iris Xe,15.6,Windows 11,1.70,2880x1620,76990
+Asus,Zenbook 14 OLED,Intel Core Ultra 7,16GB,1TB,SSD,Intel Arc Graphics,14.0,Windows 11,1.22,2880x1800,109990
+Asus,Zenbook Duo Dual Screen,Intel Core Ultra 9,32GB,2TB,SSD,Intel Arc Graphics,14.0,Windows 11,1.35,2880x1800,219990
+Asus,TUF Gaming F15,Intel Core i5 11th Gen,8GB,512GB,SSD,NVIDIA RTX 2050,15.6,Windows 11,2.30,1920x1080,48990
+Asus,TUF Gaming A15,AMD Ryzen 7 7735HS,16GB,512GB,SSD,NVIDIA RTX 4050,15.6,Windows 11,2.20,1920x1080,81990
+Asus,TUF Gaming F15,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,15.6,Windows 11,2.20,1920x1080,104990
+Asus,ROG Strix G16,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,16.0,Windows 11,2.50,1920x1200,129990
+Asus,ROG Zephyrus G14,AMD Ryzen 9 7940HS,32GB,1TB,SSD,NVIDIA RTX 4070,14.0,Windows 11,1.72,2560x1600,179990
+Asus,ROG Zephyrus G16 OLED,Intel Core Ultra 9,32GB,2TB,SSD,NVIDIA RTX 4080,16.0,Windows 11,1.85,2560x1600,289990
+Acer,Aspire 3,AMD Ryzen 3 7320U,8GB,512GB,SSD,AMD Radeon 610M,15.6,Windows 11,1.78,1920x1080,31990
+Acer,Aspire Lite,Intel Core i3 12th Gen,8GB,512GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.59,1920x1080,30990
+Acer,Aspire 5,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.78,1920x1080,52990
+Acer,Aspire 7 Gaming,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA RTX 2050,15.6,Windows 11,2.15,1920x1080,51990
+Acer,Nitro V 15,Intel Core i5 13th Gen,16GB,512GB,SSD,NVIDIA RTX 4050,15.6,Windows 11,2.11,1920x1080,69990
+Acer,Nitro 16,AMD Ryzen 7 7840HS,16GB,512GB,SSD,NVIDIA RTX 4060,16.0,Windows 11,2.70,1920x1200,94990
+Acer,Predator Helios Neo 16,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,16.0,Windows 11,2.60,2560x1600,119990
+Acer,Predator Helios 16,Intel Core i9 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4080,16.0,Windows 11,2.70,2560x1600,239990
+Acer,Swift Go 14 OLED,Intel Core Ultra 5,16GB,512GB,SSD,Intel Arc Graphics,14.0,Windows 11,1.32,2880x1800,74990
+Apple,MacBook Air M1 2020,Apple M1,8GB,256GB,SSD,Apple 7-Core GPU,13.3,macOS,1.29,2560x1600,69990
+Apple,MacBook Air M2 2022,Apple M2,8GB,256GB,SSD,Apple 8-Core GPU,13.6,macOS,1.24,2560x1664,89990
+Apple,MacBook Air M2 2022,Apple M2,16GB,512GB,SSD,Apple 10-Core GPU,13.6,macOS,1.24,2560x1664,119990
+Apple,MacBook Air M3 2024,Apple M3,8GB,256GB,SSD,Apple 8-Core GPU,13.6,macOS,1.24,2560x1664,104990
+Apple,MacBook Air M3 2024,Apple M3,16GB,512GB,SSD,Apple 10-Core GPU,15.3,macOS,1.51,2880x1864,144990
+Apple,MacBook Pro 14 M3,Apple M3,8GB,512GB,SSD,Apple 10-Core GPU,14.2,macOS,1.55,3024x1964,159990
+Apple,MacBook Pro 14 M3 Pro,Apple M3 Pro,18GB,512GB,SSD,Apple 14-Core GPU,14.2,macOS,1.61,3024x1964,189990
+Apple,MacBook Pro 16 M3 Pro,Apple M3 Pro,18GB,512GB,SSD,Apple 18-Core GPU,16.2,macOS,2.14,3456x2234,239990
+Apple,MacBook Pro 16 M3 Max,Apple M3 Max,36GB,1TB,SSD,Apple 30-Core GPU,16.2,macOS,2.16,3456x2234,329990
+MSI,Modern 14,Intel Core i3 11th Gen,8GB,512GB,SSD,Intel UHD Graphics,14.0,Windows 11,1.40,1920x1080,31990
+MSI,Modern 15,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.70,1920x1080,44990
+MSI,GF63 Thin,Intel Core i5 11th Gen,8GB,512GB,SSD,NVIDIA RTX 2050,15.6,Windows 11,1.86,1920x1080,46990
+MSI,GF63 Thin,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA RTX 4050,15.6,Windows 11,1.86,1920x1080,62990
+MSI,Katana 15,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,15.6,Windows 11,2.25,1920x1080,94990
+MSI,Sword 16 HX,Intel Core i7 14th Gen,16GB,1TB,SSD,NVIDIA RTX 4070,16.0,Windows 11,2.30,1920x1200,129990
+MSI,Raider GE78 HX,Intel Core i9 13th Gen,32GB,2TB,SSD,NVIDIA RTX 4080,17.0,Windows 11,3.10,2560x1600,279990
+MSI,Stealth 16 Studio,Intel Core i7 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4070,16.0,Windows 11,1.99,2560x1600,199990
+MSI,Prestige 14 AI Evo,Intel Core Ultra 7,16GB,1TB,SSD,Intel Arc Graphics,14.0,Windows 11,1.70,2880x1800,119990
+Samsung,Galaxy Book2,Intel Core i5 12th Gen,8GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.57,1920x1080,48990
+Samsung,Galaxy Book2,Intel Core i7 12th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.57,1920x1080,62990
+Samsung,Galaxy Book3,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.58,1920x1080,67990
+Samsung,Galaxy Book3 360,Intel Core i7 13th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.46,1920x1080,109990
+Samsung,Galaxy Book4 Pro,Intel Core Ultra 7,16GB,512GB,SSD,Intel Arc Graphics,14.0,Windows 11,1.23,2880x1800,131990
+Samsung,Galaxy Book4 Pro 360,Intel Core Ultra 7,16GB,1TB,SSD,Intel Arc Graphics,16.0,Windows 11,1.66,2880x1800,163990
+Samsung,Galaxy Book4 Ultra,Intel Core Ultra 9,32GB,1TB,SSD,NVIDIA RTX 4070,16.0,Windows 11,1.86,2880x1800,234990
+Xiaomi,RedmiBook 15 Pro,Intel Core i5 11th Gen,8GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.80,1920x1080,39990
+Xiaomi,Xiaomi Notebook Pro 120G,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA MX550,14.0,Windows 11,1.45,2560x1600,64990
+Infinix,INBook Y1 Plus,Intel Core i3 10th Gen,8GB,512GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.76,1920x1080,24990
+Infinix,ZERO BOOK ULTRA,Intel Core i9 12th Gen,32GB,1TB,SSD,Intel Iris Xe,15.6,Windows 11,1.80,1920x1080,69990
+Lenovo,V15 Gen 4,AMD Ryzen 3 7320U,8GB,512GB,SSD,AMD Radeon 610M,15.6,DOS/Linux,1.65,1920x1080,29990
+HP,Chromebook 14,Intel Celeron N4500,4GB,64GB,eMMC,Intel UHD Graphics,14.0,ChromeOS,1.46,1366x768,21990
+Acer,Chromebook Spin 314,Intel Pentium Silver N6000,4GB,128GB,eMMC,Intel UHD Graphics,14.0,ChromeOS,1.55,1920x1080,25990
+Asus,Vivobook Go 15,AMD Ryzen 3 7320U,8GB,512GB,SSD,AMD Radeon 610M,15.6,Windows 11,1.63,1920x1080,33990
+Dell,Inspiron 3530,Intel Core i5 13th Gen,8GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.65,1920x1080,51990
+HP,Victus 15,Intel Core i5 13th Gen,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,2.29,1920x1080,67990
+Lenovo,IdeaPad Flex 5,AMD Ryzen 5 7530U,16GB,512GB,SSD,AMD Radeon Graphics,14.0,Windows 11,1.55,1920x1200,59990
+Acer,Swift Go 14,AMD Ryzen 5 7530U,16GB,512GB,SSD,AMD Radeon Graphics,14.0,Windows 11,1.25,1920x1200,58990
+Asus,TUF Gaming A16 Advantage,AMD Ryzen 7 7735HS,16GB,1TB,SSD,AMD Radeon RX 7600S,16.0,Windows 11,2.20,1920x1200,89990
+Dell,G16 7630 Gaming,Intel Core i9 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4070,16.0,Windows 11,2.87,2560x1600,169990
+HP,Omen 17,Intel Core i7 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4070,17.3,Windows 11,2.78,2560x1440,159990
+Lenovo,ThinkBook 15,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.70,1920x1080,54990
+MSI,Cyborg 15,Intel Core i7 12th Gen,16GB,512GB,SSD,NVIDIA RTX 4050,15.6,Windows 11,1.98,1920x1080,76990
+Asus,ROG Flow X13,AMD Ryzen 9 7940HS,16GB,1TB,SSD,NVIDIA RTX 4050,13.4,Windows 11,1.30,2560x1600,149990
+Dell,Latitude 3440,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.54,1920x1080,61990
+HP,ProBook 440 G10,Intel Core i7 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.38,1920x1080,82990
+Lenovo,Legion 9i,Intel Core i9 13th Gen,32GB,2TB,SSD,NVIDIA RTX 4090,16.0,Windows 11,2.56,3200x2000,389990
+Asus,ROG Scar 18,Intel Core i9 14th Gen,64GB,2TB,SSD,NVIDIA RTX 4090,18.0,Windows 11,3.10,2560x1600,399990
+Apple,MacBook Air M1 2020,Apple M1,16GB,512GB,SSD,Apple 8-Core GPU,13.3,macOS,1.29,2560x1600,94990
+Acer,Extensa 15,Intel Core i3 11th Gen,8GB,256GB,SSD,Intel UHD Graphics,15.6,Windows 11,1.70,1920x1080,28990
+HP,14s-em0025AU,AMD Ryzen 3 7320U,8GB,512GB,SSD,AMD Radeon 610M,14.0,Windows 11,1.40,1920x1080,34990
+Dell,Inspiron 14 5430,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 2050,14.0,Windows 11,1.59,1920x1200,79990
+Lenovo,IdeaPad 1,AMD Athlon Silver 7120U,8GB,512GB,SSD,AMD Radeon 610M,15.6,Windows 11,1.58,1920x1080,26990
+Asus,Vivobook Pro 15 OLED,AMD Ryzen 7 5800H,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,1.65,1920x1080,64990
+MSI,Bravo 15,AMD Ryzen 7 7735HS,16GB,512GB,SSD,NVIDIA RTX 4050,15.6,Windows 11,2.25,1920x1080,69990
+Samsung,Galaxy Book4 360,Intel Core 5 120U,16GB,512GB,SSD,Intel Graphics,15.6,Windows 11,1.46,1920x1080,104990
+HP,Victus 16,AMD Ryzen 5 7640HS,16GB,512GB,SSD,NVIDIA RTX 4050,16.1,Windows 11,2.30,1920x1080,74990
+Dell,Alienware x14 R2,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4060,14.0,Windows 11,1.91,2560x1600,174990
+Acer,Nitro 5,Intel Core i5 12th Gen,16GB,512GB,SSD,NVIDIA RTX 3050,15.6,Windows 11,2.50,1920x1080,59990
+Lenovo,Legion Pro 5,AMD Ryzen 7 7745HX,16GB,1TB,SSD,NVIDIA RTX 4060,16.0,Windows 11,2.50,2560x1600,124990
+Asus,Zenbook S 13 OLED,Intel Core i7 13th Gen,16GB,1TB,SSD,Intel Iris Xe,13.3,Windows 11,1.00,2880x1800,124990
+Apple,MacBook Pro 14 M2 Pro,Apple M2 Pro,16GB,512GB,SSD,Apple 16-Core GPU,14.2,macOS,1.60,3024x1964,169990
+Dell,Vostro 3420,Intel Core i3 11th Gen,8GB,512GB,SSD,Intel UHD Graphics,14.0,Windows 11,1.49,1920x1080,33990
+HP,255 G9,AMD Ryzen 5 5625U,8GB,512GB,SSD,AMD Radeon Graphics,15.6,DOS/Linux,1.74,1920x1080,38990
+Lenovo,V14 Gen 4,Intel Core i3 13th Gen,8GB,512GB,SSD,Intel UHD Graphics,14.0,Windows 11,1.43,1920x1080,34490
+Asus,ExpertBook B1,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.49,1920x1080,51990
+Acer,TravelMate P2,Intel Core i5 12th Gen,16GB,512GB,SSD,Intel Iris Xe,15.6,Windows 11,1.80,1920x1080,49990
+MSI,Modern 14,AMD Ryzen 5 7530U,16GB,512GB,SSD,AMD Radeon Graphics,14.0,Windows 11,1.40,1920x1080,41990
+Samsung,Galaxy Book Go,Qualcomm Snapdragon 7c Gen 2,4GB,128GB,eMMC,Adreno 618,14.0,Windows 11,1.38,1920x1080,29990
+Dell,Inspiron 7430 2-in-1,Intel Core i5 13th Gen,16GB,512GB,SSD,Intel Iris Xe,14.0,Windows 11,1.58,1920x1200,74990
+HP,Envy 16,Intel Core i7 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4060,16.0,Windows 11,2.34,2560x1600,149990
+Lenovo,Yoga Book 9i,Intel Core Ultra 7,32GB,1TB,SSD,Intel Arc Graphics,13.3,Windows 11,1.34,2880x1800,209990
+Asus,ROG Ally Z1 Extreme,AMD Ryzen Z1 Extreme,16GB,512GB,SSD,AMD Radeon RDNA 3,7.0,Windows 11,0.60,1920x1080,49990
+Acer,Swift X 14,Intel Core i7 13th Gen,16GB,1TB,SSD,NVIDIA RTX 4050,14.5,Windows 11,1.55,2880x1800,104990
+MSI,Titan 18 HX,Intel Core i9 14th Gen,64GB,4TB,SSD,NVIDIA RTX 4090,18.0,Windows 11,3.60,3840x2400,449990
+Apple,MacBook Pro 16 M2 Max,Apple M2 Max,32GB,1TB,SSD,Apple 30-Core GPU,16.2,macOS,2.15,3456x2234,289990
+Dell,XPS 17 9730,Intel Core i9 13th Gen,32GB,1TB,SSD,NVIDIA RTX 4070,17.0,Windows 11,2.44,3840x2400,299990
+HP,Pavilion 15,AMD Ryzen 7 7730U,16GB,512GB,SSD,AMD Radeon Graphics,15.6,Windows 11,1.75,1920x1080,62990
+Lenovo,IdeaPad 3 Chrome,Intel Celeron N4020,4GB,64GB,eMMC,Intel UHD Graphics 600,14.0,ChromeOS,1.30,1366x768,18990
+Asus,Chromebook CX1,Intel Celeron N4500,4GB,64GB,eMMC,Intel UHD Graphics,14.0,ChromeOS,1.47,1920x1080,19990
